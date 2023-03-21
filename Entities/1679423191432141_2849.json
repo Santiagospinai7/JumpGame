@@ -1,0 +1,39 @@
+{
+    "1679423191432141:2849": {
+        "IResourceController": {
+            "name": "Color Correction red",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665097809686009:11783090",
+            "fileId": "1679423191432309:3034",
+            "originalId": "1679423191432311:3035",
+            "publicId": "1679423191432672:3315",
+            "expected_hash": "42f1efddf639d10677e83958ba84d505"
+        },
+        "IResourceManager": {
+            "uid": "1665097809686009:11783090",
+            "name": "Files/File_1679423191432309_3034",
+            "flags": 1
+        }
+    },
+    "1679423191432309:3034": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432309_3034"
+        }
+    },
+    "1679423191432311:3035": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432311_3035.lsmat"
+        }
+    },
+    "1679423191432672:3315": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/Materials/Color Correction red.lsmat",
+                "hash": "67da7bdad69c9a03f47ef0d3f2240aef"
+            }
+        }
+    }
+}

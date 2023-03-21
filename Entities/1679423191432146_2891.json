@@ -1,0 +1,39 @@
+{
+    "1679423191432146:2891": {
+        "IResourceController": {
+            "name": "Points",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668150821761283:2827184",
+            "fileId": "1679423191432512:3182",
+            "originalId": "1679423191432514:3183",
+            "publicId": "1679423191432688:3369",
+            "expected_hash": "4b25569e6df6d3a382e5256f8befff72"
+        },
+        "IResourceManager": {
+            "uid": "1668150821761283:2827184",
+            "name": "Points",
+            "flags": 0
+        }
+    },
+    "1679423191432512:3182": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432512_3182.oprfb"
+        }
+    },
+    "1679423191432514:3183": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432514_3183.oprfb"
+        }
+    },
+    "1679423191432688:3369": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs/Points/Points.oprfb",
+                "hash": "bc1bf955040b093122cb0141ccef902b"
+            }
+        }
+    }
+}

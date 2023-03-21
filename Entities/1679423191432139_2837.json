@@ -1,0 +1,33 @@
+{
+    "1679423191432139:2837": {
+        "IResourceController": {
+            "name": "GameStateConfig",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1552420339948063:336696",
+            "fileId": "1679423191432230:2976",
+            "publicId": "1679423191432667:3293",
+            "expected_hash": "54982035f3d7d850c834f9a12b670f30"
+        },
+        "IResourceManager": {
+            "uid": "1552420339948063:336696",
+            "name": "Files/File_1679423191432230_2976.js",
+            "flags": 1
+        }
+    },
+    "1679423191432230:2976": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432230_2976.js"
+        }
+    },
+    "1679423191432667:3293": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/GameStateConfig.js",
+                "hash": "54982035f3d7d850c834f9a12b670f30"
+            }
+        }
+    }
+}

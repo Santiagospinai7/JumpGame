@@ -1,0 +1,22 @@
+{
+    "1679423191432683:3353": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/UI/Started Screen"
+            }
+        }
+    },
+    "1679423191432905:3727": {
+        "IResourceController": {
+            "name": "Started Screen",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432683:3353",
+            "resources": [
+                "1679423191432145:2885"
+            ]
+        }
+    }
+}

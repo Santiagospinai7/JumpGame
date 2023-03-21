@@ -1,0 +1,24 @@
+{
+    "1679423191432684:3359": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources"
+            }
+        }
+    },
+    "1679423191432926:3744": {
+        "IResourceController": {
+            "name": "Fish Frenzy Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432684:3359",
+            "resources": [
+                "1679423191432918:3735",
+                "1679423191432922:3739",
+                "1679423191432925:3743"
+            ]
+        }
+    }
+}

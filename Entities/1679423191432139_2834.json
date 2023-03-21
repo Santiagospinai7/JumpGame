@@ -1,0 +1,33 @@
+{
+    "1679423191432139:2834": {
+        "IResourceController": {
+            "name": "GameController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1551319554661490:1392626",
+            "fileId": "1679423191432174:2935",
+            "publicId": "1679423191432666:3292",
+            "expected_hash": "b23d549202456f0647a671392e2c475f"
+        },
+        "IResourceManager": {
+            "uid": "1551319554661490:1392626",
+            "name": "/Resources/Resource331.js",
+            "flags": 1
+        }
+    },
+    "1679423191432174:2935": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432174_2935.js"
+        }
+    },
+    "1679423191432666:3292": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/GameController.js",
+                "hash": "b23d549202456f0647a671392e2c475f"
+            }
+        }
+    }
+}

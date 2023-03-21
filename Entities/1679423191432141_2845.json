@@ -1,0 +1,43 @@
+{
+    "1679423191432141:2845": {
+        "IResourceController": {
+            "name": "Miami",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665097808818349:11782994",
+            "fileId": "1679423191432298:3026",
+            "originalId": "1679423191432300:3027",
+            "publicId": "1679423191432671:3311",
+            "expected_hash": "3c59a7cfbe569d140c48778737513d0c",
+            "additional": {
+                "originHash": "3c59a7cfbe569d140c48778737513d0c",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665097808818349:11782994",
+            "name": "Files/File549.jpg",
+            "flags": 1
+        }
+    },
+    "1679423191432298:3026": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432298_3026.png"
+        }
+    },
+    "1679423191432300:3027": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432300_3027.png"
+        }
+    },
+    "1679423191432671:3311": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Miami.png",
+                "hash": "3c59a7cfbe569d140c48778737513d0c"
+            }
+        }
+    }
+}

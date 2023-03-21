@@ -1,0 +1,22 @@
+{
+    "1679423191432667:3295": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/Fonts"
+            }
+        }
+    },
+    "1679423191432823:3718": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432667:3295",
+            "resources": [
+                "1679423191432145:2882"
+            ]
+        }
+    }
+}

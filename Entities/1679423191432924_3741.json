@@ -1,0 +1,22 @@
+{
+    "1679423191432689:3372": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Materials/Player"
+            }
+        }
+    },
+    "1679423191432924:3741": {
+        "IResourceController": {
+            "name": "Player",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432689:3372",
+            "resources": [
+                "1679423191432146:2893"
+            ]
+        }
+    }
+}

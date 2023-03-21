@@ -1,0 +1,79 @@
+{
+    "1668440389363571:667883": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "203e360cab9f44068c8945215508f46f"
+                    },
+                    "v": "1679423191432590:3239"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "188336",
+                "compressedSize": "8836",
+                "extension": "png",
+                "originalRAM": "1501920",
+                "originalSize": "4193",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432585:3235"
+        }
+    },
+    "1679423191432148:2911": {
+        "IResourceController": {
+            "name": "Close mouth to swim downClose_Mouth",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668440389363571:667883",
+            "fileId": "1679423191432582:3233",
+            "originalId": "1679423191432583:3234",
+            "publicId": "1679423191432695:3393",
+            "expected_hash": "03665ce45edfdfc692fe0bce6fba00e6",
+            "additional": {
+                "originHash": "203e360cab9f44068c8945215508f46f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668440389363571:667883",
+            "name": "Files/File1285.png",
+            "flags": 1
+        }
+    },
+    "1679423191432582:3233": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432582_3233.pvr"
+        }
+    },
+    "1679423191432583:3234": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432583_3234.png"
+        }
+    },
+    "1679423191432585:3235": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432585_3235.png"
+        }
+    },
+    "1679423191432590:3239": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432590_3239.pvr"
+        }
+    },
+    "1679423191432695:3393": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/UI/Instructions/Close mouth to swim downClose_Mouth.png",
+                "hash": "203e360cab9f44068c8945215508f46f"
+            }
+        }
+    }
+}

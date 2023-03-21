@@ -1,0 +1,23 @@
+{
+    "1679423191432664:3283": {
+        "IResourceController": {
+            "public": {
+                "path": "Cameras"
+            }
+        }
+    },
+    "1679423191432816:3713": {
+        "IResourceController": {
+            "name": "Cameras",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432664:3283",
+            "resources": [
+                "1679423191432135:2820",
+                "1679423191432139:2835"
+            ]
+        }
+    }
+}

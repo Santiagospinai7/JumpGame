@@ -1,0 +1,39 @@
+{
+    "1679423191432146:2896": {
+        "IResourceController": {
+            "name": "Water",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668209101785149:300758",
+            "fileId": "1679423191432524:3191",
+            "originalId": "1679423191432526:3192",
+            "publicId": "1679423191432690:3376",
+            "expected_hash": "36d8d928351af53bdbe2505772e5c950"
+        },
+        "IResourceManager": {
+            "uid": "1668209101785149:300758",
+            "name": "Water",
+            "flags": 0
+        }
+    },
+    "1679423191432524:3191": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432524_3191.oprfb"
+        }
+    },
+    "1679423191432526:3192": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432526_3192.oprfb"
+        }
+    },
+    "1679423191432690:3376": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs/BG/Water.oprfb",
+                "hash": "e108645d846069f76d01514c595910ab"
+            }
+        }
+    }
+}

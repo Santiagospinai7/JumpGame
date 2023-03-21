@@ -1,0 +1,25 @@
+{
+    "1679423191432696:3397": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/Obstacles/Buttom"
+            }
+        }
+    },
+    "1679423191432918:3733": {
+        "IResourceController": {
+            "name": "Buttom",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432696:3397",
+            "resources": [
+                "1679423191432148:2915",
+                "1679423191432149:2916",
+                "1679423191432149:2918",
+                "1679423191432149:2920"
+            ]
+        }
+    }
+}

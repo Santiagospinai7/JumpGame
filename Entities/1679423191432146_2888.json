@@ -1,0 +1,39 @@
+{
+    "1679423191432146:2888": {
+        "IResourceController": {
+            "name": "Tube_Buttom",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668119401727694:5501453",
+            "fileId": "1679423191432504:3176",
+            "originalId": "1679423191432506:3177",
+            "publicId": "1679423191432686:3365",
+            "expected_hash": "92d03777d3dc38733fc756b66eaca6e3"
+        },
+        "IResourceManager": {
+            "uid": "1668119401727694:5501453",
+            "name": "Files/File_1679423191432504_3176",
+            "flags": 1
+        }
+    },
+    "1679423191432504:3176": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432504_3176"
+        }
+    },
+    "1679423191432506:3177": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432506_3177.lsmat"
+        }
+    },
+    "1679423191432686:3365": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Materials/Obstacles/Tube_Buttom.lsmat",
+                "hash": "d7501b9aabc76ac124b99fdb700dcb4e"
+            }
+        }
+    }
+}

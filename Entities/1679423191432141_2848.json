@@ -1,0 +1,39 @@
+{
+    "1679423191432141:2848": {
+        "IResourceController": {
+            "name": "Color Correction yellow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665097809298307:11783051",
+            "fileId": "1679423191432307:3032",
+            "originalId": "1679423191432308:3033",
+            "publicId": "1679423191432672:3314",
+            "expected_hash": "42f1efddf639d10677e83958ba84d505"
+        },
+        "IResourceManager": {
+            "uid": "1665097809298307:11783051",
+            "name": "Files/File_1679423191432307_3032",
+            "flags": 1
+        }
+    },
+    "1679423191432307:3032": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432307_3032"
+        }
+    },
+    "1679423191432308:3033": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432308_3033.lsmat"
+        }
+    },
+    "1679423191432672:3314": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/Materials/Color Correction yellow.lsmat",
+                "hash": "6869fb0d4e49948040854cba32a3e92f"
+            }
+        }
+    }
+}

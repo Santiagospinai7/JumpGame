@@ -1,0 +1,79 @@
+{
+    "1668115117103205:506029": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "df9787ff463f026ebf49d162777870f0"
+                    },
+                    "v": "1679423191432500:3173"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "970752",
+                "compressedSize": "334171",
+                "extension": "png",
+                "originalRAM": "7749632",
+                "originalSize": "721323",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432499:3172"
+        }
+    },
+    "1679423191432146:2886": {
+        "IResourceController": {
+            "name": "BG",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668115117103205:506029",
+            "fileId": "1679423191432496:3170",
+            "originalId": "1679423191432498:3171",
+            "publicId": "1679423191432684:3358",
+            "expected_hash": "801682b32a7fb5f05babd89fce250ed7",
+            "additional": {
+                "originHash": "13dfa422961ffee3cf12aa14ce6d42ac"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668115117103205:506029",
+            "name": "Files/File1147.png",
+            "flags": 1
+        }
+    },
+    "1679423191432496:3170": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432496_3170.pvr"
+        }
+    },
+    "1679423191432498:3171": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432498_3171.png"
+        }
+    },
+    "1679423191432499:3172": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432499_3172.png"
+        }
+    },
+    "1679423191432500:3173": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432500_3173.pvr"
+        }
+    },
+    "1679423191432684:3358": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/BG/Base/BG.png",
+                "hash": "13dfa422961ffee3cf12aa14ce6d42ac"
+            }
+        }
+    }
+}

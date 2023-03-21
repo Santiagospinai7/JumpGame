@@ -1,0 +1,24 @@
+{
+    "1679423191432685:3360": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs"
+            }
+        }
+    },
+    "1679423191432922:3739": {
+        "IResourceController": {
+            "name": "Fish Frenzy Prefabs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432685:3360",
+            "resources": [
+                "1679423191432920:3736",
+                "1679423191432920:3737",
+                "1679423191432922:3738"
+            ]
+        }
+    }
+}

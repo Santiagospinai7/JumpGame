@@ -1,0 +1,33 @@
+{
+    "1679423191432138:2829": {
+        "IResourceController": {
+            "name": "Spawner",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1549669138308983:706192",
+            "fileId": "1679423191432168:2930",
+            "publicId": "1679423191432665:3288",
+            "expected_hash": "3d41fcb6e9f35d345c856c942ff9e874"
+        },
+        "IResourceManager": {
+            "uid": "1549669138308983:706192",
+            "name": "/Resources/Resource92.js",
+            "flags": 1
+        }
+    },
+    "1679423191432168:2930": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432168_2930.js"
+        }
+    },
+    "1679423191432665:3288": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/Spawner.js",
+                "hash": "3d41fcb6e9f35d345c856c942ff9e874"
+            }
+        }
+    }
+}

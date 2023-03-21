@@ -1,0 +1,79 @@
+{
+    "1668444275220946:1372084": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5eed58d631ea9f04079ad70a306cdc69"
+                    },
+                    "v": "1679423191432608:3252"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "593920",
+                "compressedSize": "56126",
+                "extension": "png",
+                "originalRAM": "4743168",
+                "originalSize": "156629",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432605:3250"
+        }
+    },
+    "1679423191432148:2915": {
+        "IResourceController": {
+            "name": "GroupGraffiti_Bottom_4",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668444275220946:1372084",
+            "fileId": "1679423191432603:3248",
+            "originalId": "1679423191432604:3249",
+            "publicId": "1679423191432696:3399",
+            "expected_hash": "7a46abbf1f9d55f3d512a477bdcb24de",
+            "additional": {
+                "originHash": "bbf833af451f64e7e3461f3eb11bc2cf"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668444275220946:1372084",
+            "name": "Files/File1300.png",
+            "flags": 1
+        }
+    },
+    "1679423191432603:3248": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432603_3248.pvr"
+        }
+    },
+    "1679423191432604:3249": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432604_3249.png"
+        }
+    },
+    "1679423191432605:3250": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432605_3250.png"
+        }
+    },
+    "1679423191432608:3252": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432608_3252.pvr"
+        }
+    },
+    "1679423191432696:3399": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/Obstacles/Buttom/GroupGraffiti_Bottom_4.png",
+                "hash": "bbf833af451f64e7e3461f3eb11bc2cf"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1679423191432145:2882": {
+        "IResourceController": {
+            "name": "RightGroteskText-WideBold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665169654532006:124708",
+            "fileId": "1679423191432404:3102",
+            "publicId": "1679423191432682:3348",
+            "expected_hash": "8cf1e78aaefafc56ce67a766b0debd61"
+        },
+        "IResourceManager": {
+            "uid": "1665169654532006:124708",
+            "name": "Files/File_1679423191432404_3102.otf",
+            "flags": 1
+        }
+    },
+    "1679423191432404:3102": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432404_3102.otf"
+        }
+    },
+    "1679423191432682:3348": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/Fonts/RightGroteskText-WideBold.otf",
+                "hash": "8cf1e78aaefafc56ce67a766b0debd61"
+            }
+        }
+    }
+}

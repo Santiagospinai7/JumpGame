@@ -1,0 +1,33 @@
+{
+    "1679423191432145:2883": {
+        "IResourceController": {
+            "name": "GlobalShow",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665169789575948:149009",
+            "fileId": "1679423191432405:3103",
+            "publicId": "1679423191432682:3349",
+            "expected_hash": "5e9c63829a28199dc154d4b94bbd09fa"
+        },
+        "IResourceManager": {
+            "uid": "1665169789575948:149009",
+            "name": "Files/File_1679423191432405_3103.js",
+            "flags": 1
+        }
+    },
+    "1679423191432405:3103": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432405_3103.js"
+        }
+    },
+    "1679423191432682:3349": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/GlobalShow.js",
+                "hash": "5e9c63829a28199dc154d4b94bbd09fa"
+            }
+        }
+    }
+}

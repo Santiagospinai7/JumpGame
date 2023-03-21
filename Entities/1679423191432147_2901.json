@@ -1,0 +1,39 @@
+{
+    "1679423191432147:2901": {
+        "IResourceController": {
+            "name": "Structure",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668213716568956:1372274",
+            "fileId": "1679423191432538:3201",
+            "originalId": "1679423191432546:3207",
+            "publicId": "1679423191432691:3382",
+            "expected_hash": "4f2938da9143aaff4c41b7c8893710a8"
+        },
+        "IResourceManager": {
+            "uid": "1668213716568956:1372274",
+            "name": "Structure",
+            "flags": 0
+        }
+    },
+    "1679423191432538:3201": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432538_3201.oprfb"
+        }
+    },
+    "1679423191432546:3207": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432546_3207.oprfb"
+        }
+    },
+    "1679423191432691:3382": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs/BG/Structure.oprfb",
+                "hash": "262d3974ec8e290616f391e29fd90b6f"
+            }
+        }
+    }
+}

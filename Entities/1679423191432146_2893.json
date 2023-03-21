@@ -1,0 +1,39 @@
+{
+    "1679423191432146:2893": {
+        "IResourceController": {
+            "name": "Bird",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668189428577092:289697",
+            "fileId": "1679423191432518:3186",
+            "originalId": "1679423191432519:3187",
+            "publicId": "1679423191432688:3371",
+            "expected_hash": "92d03777d3dc38733fc756b66eaca6e3"
+        },
+        "IResourceManager": {
+            "uid": "1668189428577092:289697",
+            "name": "Files/File_1679423191432518_3186",
+            "flags": 1
+        }
+    },
+    "1679423191432518:3186": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432518_3186"
+        }
+    },
+    "1679423191432519:3187": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432519_3187.lsmat"
+        }
+    },
+    "1679423191432688:3371": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Materials/Player/Bird.lsmat",
+                "hash": "1023b084c221835a0414f3ab22eeeb8c"
+            }
+        }
+    }
+}

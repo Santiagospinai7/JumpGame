@@ -1,0 +1,79 @@
+{
+    "1668440389546699:667897": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "052e5c3b264360054e6d621dbfa130cc"
+                    },
+                    "v": "1679423191432592:3240"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "170880",
+                "compressedSize": "8049",
+                "extension": "png",
+                "originalRAM": "1352696",
+                "originalSize": "3689",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432589:3238"
+        }
+    },
+    "1679423191432148:2912": {
+        "IResourceController": {
+            "name": "Open mouth to swim upOpen_Mouth",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668440389546699:667897",
+            "fileId": "1679423191432586:3236",
+            "originalId": "1679423191432587:3237",
+            "publicId": "1679423191432695:3394",
+            "expected_hash": "e07f91e256c1d1a5d6ef5e2c40c802d8",
+            "additional": {
+                "originHash": "052e5c3b264360054e6d621dbfa130cc"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668440389546699:667897",
+            "name": "Files/File1288.png",
+            "flags": 1
+        }
+    },
+    "1679423191432586:3236": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432586_3236.pvr"
+        }
+    },
+    "1679423191432587:3237": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432587_3237.png"
+        }
+    },
+    "1679423191432589:3238": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432589_3238.png"
+        }
+    },
+    "1679423191432592:3240": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432592_3240.pvr"
+        }
+    },
+    "1679423191432695:3394": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/UI/Instructions/Open mouth to swim upOpen_Mouth.png",
+                "hash": "052e5c3b264360054e6d621dbfa130cc"
+            }
+        }
+    }
+}

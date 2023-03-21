@@ -1,0 +1,79 @@
+{
+    "1552339892908757:41585": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "60a5335a671e4782401847f7356c30c7"
+                    },
+                    "v": "1679423191432289:3019"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "146880",
+                "compressedSize": "28434",
+                "extension": "png",
+                "originalRAM": "1166400",
+                "originalSize": "13282",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432287:3017"
+        }
+    },
+    "1679423191432139:2836": {
+        "IResourceController": {
+            "name": "Vignette",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1552339892908757:41585",
+            "fileId": "1679423191432226:2973",
+            "originalId": "1679423191432288:3018",
+            "publicId": "1679423191432668:3300",
+            "expected_hash": "b903624b08310d7b5e6a48db24deb65d",
+            "additional": {
+                "originHash": "60a5335a671e4782401847f7356c30c7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1552339892908757:41585",
+            "name": "Files/File235.png",
+            "flags": 1
+        }
+    },
+    "1679423191432226:2973": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432226_2973.pvr"
+        }
+    },
+    "1679423191432287:3017": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432287_3017.png"
+        }
+    },
+    "1679423191432288:3018": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432288_3018.png"
+        }
+    },
+    "1679423191432289:3019": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432289_3019.pvr"
+        }
+    },
+    "1679423191432668:3300": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/UI Textures/Vignette.png",
+                "hash": "60a5335a671e4782401847f7356c30c7"
+            }
+        }
+    }
+}

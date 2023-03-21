@@ -1,0 +1,80 @@
+{
+    "1665166279217054:4089623": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bc1c826ea963fa8912626caa34a3303f"
+                    },
+                    "v": "1679423191432467:3149"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "11400",
+                "compressedSize": "3801",
+                "extension": "png",
+                "originalRAM": "90000",
+                "originalSize": "4364",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432465:3148"
+        }
+    },
+    "1679423191432144:2874": {
+        "IResourceController": {
+            "name": "2199",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665166279217054:4089623",
+            "fileId": "1679423191432379:3084",
+            "originalId": "1679423191432380:3085",
+            "publicId": "1679423191432679:3339",
+            "expected_hash": "ca44d065fff0e424669e2f9333d4ba70",
+            "additional": {
+                "originHash": "bc1c826ea963fa8912626caa34a3303f",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665166279217054:4089623",
+            "name": "Files/File986.png",
+            "flags": 1
+        }
+    },
+    "1679423191432379:3084": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432379_3084.pvr"
+        }
+    },
+    "1679423191432380:3085": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432380_3085.png"
+        }
+    },
+    "1679423191432465:3148": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432465_3148.png"
+        }
+    },
+    "1679423191432467:3149": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432467_3149.pvr"
+        }
+    },
+    "1679423191432679:3339": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/UI Textures/Points/2199.png",
+                "hash": "bc1c826ea963fa8912626caa34a3303f"
+            }
+        }
+    }
+}

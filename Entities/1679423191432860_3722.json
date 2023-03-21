@@ -1,0 +1,26 @@
+{
+    "1679423191432668:3299": {
+        "IResourceController": {
+            "public": {
+                "path": "Game Resources/UI Textures"
+            }
+        }
+    },
+    "1679423191432860:3722": {
+        "IResourceController": {
+            "name": "UI Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432668:3299",
+            "resources": [
+                "1679423191432139:2836",
+                "1679423191432142:2851",
+                "1679423191432858:3721",
+                "1679423191432145:2881",
+                "1679423191432145:2884"
+            ]
+        }
+    }
+}

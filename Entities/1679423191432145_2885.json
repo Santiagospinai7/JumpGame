@@ -1,0 +1,79 @@
+{
+    "1668114611300069:311784": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d3bb1b1a40615f1dfbf6d9768fa3ef75"
+                    },
+                    "v": "1679423191432495:3169"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1016400",
+                "compressedSize": "38847",
+                "extension": "png",
+                "originalRAM": "8131200",
+                "originalSize": "51058",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432494:3168"
+        }
+    },
+    "1679423191432145:2885": {
+        "IResourceController": {
+            "name": "Started_Card",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668114611300069:311784",
+            "fileId": "1679423191432491:3166",
+            "originalId": "1679423191432492:3167",
+            "publicId": "1679423191432683:3354",
+            "expected_hash": "7fd40579f0ede692999f0247fa43515e",
+            "additional": {
+                "originHash": "d3bb1b1a40615f1dfbf6d9768fa3ef75"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668114611300069:311784",
+            "name": "Files/File1114.png",
+            "flags": 1
+        }
+    },
+    "1679423191432491:3166": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432491_3166.pvr"
+        }
+    },
+    "1679423191432492:3167": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432492_3167.png"
+        }
+    },
+    "1679423191432494:3168": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432494_3168.png"
+        }
+    },
+    "1679423191432495:3169": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432495_3169.pvr"
+        }
+    },
+    "1679423191432683:3354": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/UI/Started Screen/Started_Card.png",
+                "hash": "d3bb1b1a40615f1dfbf6d9768fa3ef75"
+            }
+        }
+    }
+}

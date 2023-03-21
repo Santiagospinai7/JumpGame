@@ -1,0 +1,39 @@
+{
+    "1679423191432147:2898": {
+        "IResourceController": {
+            "name": "Floor1",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668210274489078:607695",
+            "fileId": "1679423191432530:3195",
+            "originalId": "1679423191432531:3196",
+            "publicId": "1679423191432691:3379",
+            "expected_hash": "0a6b0acb9f206e0ccfb2df637472d547"
+        },
+        "IResourceManager": {
+            "uid": "1668210274489078:607695",
+            "name": "Floor1",
+            "flags": 0
+        }
+    },
+    "1679423191432530:3195": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432530_3195.oprfb"
+        }
+    },
+    "1679423191432531:3196": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432531_3196.oprfb"
+        }
+    },
+    "1679423191432691:3379": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs/BG/Floor1.oprfb",
+                "hash": "0a6b0acb9f206e0ccfb2df637472d547"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1679423191432146:2895": {
+        "IResourceController": {
+            "name": "Water",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668207893876239:159498",
+            "fileId": "1679423191432522:3189",
+            "originalId": "1679423191432523:3190",
+            "publicId": "1679423191432689:3374",
+            "expected_hash": "92d03777d3dc38733fc756b66eaca6e3"
+        },
+        "IResourceManager": {
+            "uid": "1668207893876239:159498",
+            "name": "Files/File_1679423191432522_3189",
+            "flags": 1
+        }
+    },
+    "1679423191432522:3189": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432522_3189"
+        }
+    },
+    "1679423191432523:3190": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432523_3190.lsmat"
+        }
+    },
+    "1679423191432689:3374": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Materials/BG/Water.lsmat",
+                "hash": "f0cefb0bcbf034b9c4bf3c6f37261b6c"
+            }
+        }
+    }
+}

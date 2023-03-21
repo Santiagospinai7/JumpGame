@@ -1,0 +1,79 @@
+{
+    "1668438266190165:343736": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "095a11873b2de52181e8753a7c58acc8"
+                    },
+                    "v": "1679423191432579:3231"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "142272",
+                "compressedSize": "19344",
+                "extension": "png",
+                "originalRAM": "1132560",
+                "originalSize": "31026",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432568:3223"
+        }
+    },
+    "1679423191432148:2909": {
+        "IResourceController": {
+            "name": "Fish_Player",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668438266190165:343736",
+            "fileId": "1679423191432566:3221",
+            "originalId": "1679423191432567:3222",
+            "publicId": "1679423191432694:3390",
+            "expected_hash": "1d7b4c60e22436370ac22d3c204e0058",
+            "additional": {
+                "originHash": "095a11873b2de52181e8753a7c58acc8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668438266190165:343736",
+            "name": "Files/File1268.png",
+            "flags": 1
+        }
+    },
+    "1679423191432566:3221": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432566_3221.pvr"
+        }
+    },
+    "1679423191432567:3222": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432567_3222.png"
+        }
+    },
+    "1679423191432568:3223": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432568_3223.png"
+        }
+    },
+    "1679423191432579:3231": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432579_3231.pvr"
+        }
+    },
+    "1679423191432694:3390": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Fish_Player.png",
+                "hash": "095a11873b2de52181e8753a7c58acc8"
+            }
+        }
+    }
+}

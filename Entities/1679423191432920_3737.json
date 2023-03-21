@@ -1,0 +1,22 @@
+{
+    "1679423191432687:3368": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs/Points"
+            }
+        }
+    },
+    "1679423191432920:3737": {
+        "IResourceController": {
+            "name": "Points",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679423191432687:3368",
+            "resources": [
+                "1679423191432146:2891"
+            ]
+        }
+    }
+}

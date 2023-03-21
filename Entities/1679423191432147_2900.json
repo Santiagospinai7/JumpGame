@@ -1,0 +1,39 @@
+{
+    "1679423191432147:2900": {
+        "IResourceController": {
+            "name": "Floor2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668211615237873:1003101",
+            "fileId": "1679423191432534:3198",
+            "originalId": "1679423191432535:3199",
+            "publicId": "1679423191432691:3381",
+            "expected_hash": "92d03777d3dc38733fc756b66eaca6e3"
+        },
+        "IResourceManager": {
+            "uid": "1668211615237873:1003101",
+            "name": "Files/File_1679423191432534_3198",
+            "flags": 1
+        }
+    },
+    "1679423191432534:3198": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432534_3198"
+        }
+    },
+    "1679423191432535:3199": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432535_3199.lsmat"
+        }
+    },
+    "1679423191432691:3381": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Materials/BG/Floor2.lsmat",
+                "hash": "3e464d3b2a3410534222dca5ced92a59"
+            }
+        }
+    }
+}

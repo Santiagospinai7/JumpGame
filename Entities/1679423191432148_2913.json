@@ -1,0 +1,79 @@
+{
+    "1668440397187556:679086": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d97928e6f1079d2508e1648c088dc196"
+                    },
+                    "v": "1679423191432597:3244"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36992",
+                "compressedSize": "3209",
+                "extension": "png",
+                "originalRAM": "293764",
+                "originalSize": "4189",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432596:3243"
+        }
+    },
+    "1679423191432148:2913": {
+        "IResourceController": {
+            "name": "TinySphere",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668440397187556:679086",
+            "fileId": "1679423191432593:3241",
+            "originalId": "1679423191432594:3242",
+            "publicId": "1679423191432695:3395",
+            "expected_hash": "57c0b7f2ef017e3c4b8b923a461d9fa6",
+            "additional": {
+                "originHash": "d97928e6f1079d2508e1648c088dc196"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668440397187556:679086",
+            "name": "Files/File1293.png",
+            "flags": 1
+        }
+    },
+    "1679423191432593:3241": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432593_3241.pvr"
+        }
+    },
+    "1679423191432594:3242": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432594_3242.png"
+        }
+    },
+    "1679423191432596:3243": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432596_3243.png"
+        }
+    },
+    "1679423191432597:3244": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432597_3244.pvr"
+        }
+    },
+    "1679423191432695:3395": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Textures/UI/Instructions/TinySphere.png",
+                "hash": "d97928e6f1079d2508e1648c088dc196"
+            }
+        }
+    }
+}

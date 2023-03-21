@@ -1,0 +1,79 @@
+{
+    "1668438266177895:343732": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "735d64ec23f49360cbebc798900792d7"
+                    },
+                    "v": "1679423191432578:3230"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "188210",
+                "compressedSize": "23742",
+                "extension": "png",
+                "originalRAM": "1132096",
+                "originalSize": "30135",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679423191432564:3220"
+        }
+    },
+    "1679423191432148:2908": {
+        "IResourceController": {
+            "name": "Water",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668438266177895:343732",
+            "fileId": "1679423191432562:3218",
+            "originalId": "1679423191432563:3219",
+            "publicId": "1679423191432693:3389",
+            "expected_hash": "c5332b05f2ea126160f1f2eeb9905691",
+            "additional": {
+                "originHash": "735d64ec23f49360cbebc798900792d7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1668438266177895:343732",
+            "name": "Files/File1265.png",
+            "flags": 1
+        }
+    },
+    "1679423191432562:3218": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432562_3218.pvr"
+        }
+    },
+    "1679423191432563:3219": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432563_3219.png"
+        }
+    },
+    "1679423191432564:3220": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432564_3220.png"
+        }
+    },
+    "1679423191432578:3230": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432578_3230.pvr"
+        }
+    },
+    "1679423191432693:3389": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Water.png",
+                "hash": "735d64ec23f49360cbebc798900792d7"
+            }
+        }
+    }
+}

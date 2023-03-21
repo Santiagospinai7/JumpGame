@@ -1,0 +1,39 @@
+{
+    "1679423191432146:2889": {
+        "IResourceController": {
+            "name": "Tube_Top",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1668120065327201:5637886",
+            "fileId": "1679423191432507:3178",
+            "originalId": "1679423191432510:3180",
+            "publicId": "1679423191432687:3366",
+            "expected_hash": "c409b0127d8d24ab6cd222b1ed962a1d"
+        },
+        "IResourceManager": {
+            "uid": "1668120065327201:5637886",
+            "name": "Tube_Top",
+            "flags": 0
+        }
+    },
+    "1679423191432507:3178": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432507_3178.oprfb"
+        }
+    },
+    "1679423191432510:3180": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432510_3180.oprfb"
+        }
+    },
+    "1679423191432687:3366": {
+        "IResourceController": {
+            "public": {
+                "path": "Fish Frenzy Resources/Fish Frenzy Prefabs/Obstacles/Tube_Top.oprfb",
+                "hash": "cdcd5e9c64f1a278bdadf5538c4930ee"
+            }
+        }
+    }
+}

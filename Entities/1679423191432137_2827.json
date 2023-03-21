@@ -1,0 +1,33 @@
+{
+    "1679423191432137:2827": {
+        "IResourceController": {
+            "name": "CollisionObject",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1549664006106154:387587",
+            "fileId": "1679423191432165:2928",
+            "publicId": "1679423191432670:3306",
+            "expected_hash": "cc7a62aa511f7c1ff98dc6acad08a23d"
+        },
+        "IResourceManager": {
+            "uid": "1549664006106154:387587",
+            "name": "/Resources/Resource72.js",
+            "flags": 1
+        }
+    },
+    "1679423191432165:2928": {
+        "IFileManager": {
+            "path": "Files/File_1679423191432165_2928.js"
+        }
+    },
+    "1679423191432670:3306": {
+        "IResourceController": {
+            "public": {
+                "path": "Collision System/CollisionObject.js",
+                "hash": "cc7a62aa511f7c1ff98dc6acad08a23d"
+            }
+        }
+    }
+}
